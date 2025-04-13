@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "blue-wood-f0c2",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3847dcc5-148c-4ba6-a1c3-454f1d8f68db",
+      "database_name": "blue-wood-f0c2-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
